@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 2024 ~ 2025 명지전문대학교 소프트웨어콘텐츠학과 (전공심화/4년제 과정) <진행중>
 
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2sang123&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2sang123&show_icons=true&theme=radical&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2sang123)](https://github.com/anuraghazra/github-readme-stats)
 
