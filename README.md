@@ -24,6 +24,6 @@ Here are some ideas to get you started:
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2sang123&show_icons=true&theme=radical&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2sang123&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2sang123&layout=compact&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Visitor Count](https://profile-counter.glitch.me/2sang123/count.svg)
